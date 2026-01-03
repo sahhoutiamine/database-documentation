@@ -190,4 +190,4 @@ This comprehensive roadmap guides learners through mastering databases, DBMS, an
 
 #### **What to do:**
 
-- hi
+- i really miss my chance
