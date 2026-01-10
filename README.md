@@ -192,3 +192,4 @@ This comprehensive roadmap guides learners through mastering databases, DBMS, an
 
 - i really miss my chance
 - whats chance ?
+- ah... Forget
