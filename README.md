@@ -189,8 +189,3 @@ This comprehensive roadmap guides learners through mastering databases, DBMS, an
 - Monitoring database performance
 
 #### **What to do:**
-
-- i really miss my chance
-- whats chance ?
-- ah... Forget
-- okey!
